@@ -192,7 +192,8 @@ h1 {
     text-align: center;
 }
 
-.videoBox>video {
+.videoBox>video,
+.videoBox>iframe {
     width: 717px;
     height: 413px;
 }
